@@ -7,17 +7,17 @@
 logo: /images/isomer-logo.svg
 
 links:
-  - title: Conference
+  - title: 论坛
     collection: conference
-  - title: Speakers And Moderators
+  - title: 发言人及主持人
     url: /speakers-and-moderators/
-  - title: Key Partners
+  - title: 机构介绍
     collection: key-partners
-  - title: News
+  - title: 新闻发布
     resource_room: true
-  - title: Contact Us
+  - title: 联络我们
     url: /contact-us/
-  - title: Past Conference
+  - title: 往届论坛
     url: /past-conference/
 
 
