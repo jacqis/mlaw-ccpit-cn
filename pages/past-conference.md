@@ -1,4 +1,4 @@
 ---
-title: Past Conference
+title: 往届论坛
 permalink: /past-conference
 ---
