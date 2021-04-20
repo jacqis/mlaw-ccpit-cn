@@ -1,6 +1,6 @@
 ---
 layout: contact_us
-title: Contact Us
+title: 联络我们
 permalink: /contact-us/
 agency_name: Agency Name
 locations:
