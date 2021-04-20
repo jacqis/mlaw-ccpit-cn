@@ -1,5 +1,5 @@
 ---
-title: Terms of Use
+title: 使用条款
 permalink: /terms-of-use/
 ---
 ### **General Terms and Conditions on the Use of the Isomer Pages Website**
