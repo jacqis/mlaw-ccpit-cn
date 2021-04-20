@@ -1,6 +1,6 @@
 ---
 layout: search
-title: Search
+title: 查找
 permalink: /search/
 breadcrumb: Search
 ---
