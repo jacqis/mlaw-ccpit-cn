@@ -1,5 +1,5 @@
 ---
-title: Privacy Statement
+title: 隐私声明
 permalink: /privacy/
 ---
 
