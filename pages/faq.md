@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: 常问问题
 permalink: /faq/
 ---
 
