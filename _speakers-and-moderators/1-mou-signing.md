@@ -7,31 +7,33 @@ permalink: /speakers-and-moderators/mou-signing-ceremony/
 
 ### 刘超
 **部长<br>
-Department of Legal Affairs, China Council for the Promotion of International Trade**
+中国国际贸易促进委员会法律事务部**
 
-Before joining CCPIT, Dr. Liu worked more than 15 years at Ministry of Commerce (MOFCOM, Former Ministry of Foreign Trade and Economic Cooperation) in various leadership positions, including Third Secretary, Deputy Director and First Secretary of Trade Remedy and Investigation Bureau. From 2005 to 2008, Dr. Liu worked at the Economic and Commercial Counselor’s Office, the Mission of the PRC to the EU, as team leader of TDI and TBT (SPS) Unit. Dr. Liu has rich experience in coping with trade frictions and trade remedy investigations. He has guided hundreds of trade friction processing and served as a member of Lecturer Team for training Chinese Commercial Counselors.
+刘超，法经济学博士，现任中国国际贸易促进委员会法律事务部部长。
 
-Dr. Liu joined CCPIT in November 2014 to set up the new Legal Affairs Department. In May 2015, he was appointed as the Deputy Director-General of Legal Affairs Department. From December 2015 to May 2018, he was appointed as the Head of CCPIT Enterprises’ Rights Protection Center. In March 2020, he was appointed as the Director General of Legal Affairs Department. Dr. Liu is responsible for coordinating a wide range of legal affairs including coping with economic and trade friction, legal risk prevention, enterprises’ rights protection, foreign economic and trade negotiation, foreign-related commercial legal services, commercial mediation and arbitration, etc.
+曾任外经贸部（现商务部）公平贸易局、贸易救济调查局三等商务秘书、副处长、一等商务秘书，负责国外对华贸易摩擦应对和对外贸易救济调查工作。2005年至2008年在中国驻欧盟使团常驻，任贸易壁垒组组长。在商务部工作期间共指导处理经贸摩擦纠纷案件数百起；为商务部驻外参赞培训班讲师团成员。
 
-Dr. Liu holds doctoral degree in Law and Economics and acts as an arbitrator of China International Economic and Trade Arbitration Commission (CIETAC) and China Maritime Arbitration Commission (CMAC).
+2014年11月由商务部调任中国国际贸易促进委员会，协助组建新法律事务部。2015年5月任中国国际贸易促进委员会法律事务部副部长；2015年12月至2018年5月兼任中国国际贸易促进委员会企业权益保护中心负责人。统筹协调经贸摩擦应对、法律风险防范、企业权益保护、对外经贸谈判、涉外商事法律服务、商事调解仲裁等工作。2020年3月任中国国际贸易促进委员会法律事务部部长。
 
-## Signees
+目前为中国国际经济贸易仲裁委员会、中国海事仲裁委员会等仲裁机构仲裁员。
 
-### Calvin Phua
-**Deputy Secretary<br>
-Ministry of Law**
+## 签约代表
 
-### Lu Pengqi
-**Vice Chairman<br>
-China Council for the Promotion of International Trade**<br>
+### 潘家煌
+**副常仁秘书<br>
+新加坡律政部**
+
+### 卢鹏起
+**副会长<br>
+中国国际贸易促进委员会**<br>
 
 
-## Witnesses 
+## 见证人 
 
-### Edwin Tong
-**Minister for Culture, Community and Youths and<br>
-Second Minister for Law**
+### 唐振辉
+**新加坡文化、社区及青年部部长兼<br>
+律政部第二部长**
 
-### Gao Yan
-**Chairman<br>
-China Council for the Promotion of International Trade**<br>
+### 高燕
+**会长<br>
+中国国际贸易促进委员会**<br>
