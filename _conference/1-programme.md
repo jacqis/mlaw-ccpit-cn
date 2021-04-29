@@ -89,8 +89,8 @@ table tr td ul li {font-size: 1rem;}
       <td><p style="text-align: justify"><b>闭幕仪式</b></p>
       <ul>
       <p style="text-align: justify">主持人：新方代表</p>
-      <p style="text-align: justify"><b>中方代表演讲</b></p>
-      <p style="text-align: justify"><b>新方代表演讲</b></p>
+      <p style="text-align: justify">中方代表演讲</p>
+      <p style="text-align: justify">新方代表演讲</p>
     </ul>
    </td>
   </tr>
