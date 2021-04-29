@@ -7,7 +7,7 @@ permalink: /speakers-and-moderators/panel-discussion-1/
 
 ## 主持人
 
-### 陈健<br>
+### 陈建<br>
 **专职副秘书长<br>
 中国仲裁法学研究会**
 
