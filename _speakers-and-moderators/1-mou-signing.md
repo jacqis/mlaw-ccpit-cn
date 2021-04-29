@@ -3,10 +3,10 @@ title: 谅解备忘录签约仪式
 permalink: /speakers-and-moderators/mou-signing-ceremony/
 ---
 
-## Moderator 
+## 主持人 
 
-### Liu Chao
-**Director-General<br>
+### 刘超
+**部长<br>
 Department of Legal Affairs, China Council for the Promotion of International Trade**
 
 Before joining CCPIT, Dr. Liu worked more than 15 years at Ministry of Commerce (MOFCOM, Former Ministry of Foreign Trade and Economic Cooperation) in various leadership positions, including Third Secretary, Deputy Director and First Secretary of Trade Remedy and Investigation Bureau. From 2005 to 2008, Dr. Liu worked at the Economic and Commercial Counselor’s Office, the Mission of the PRC to the EU, as team leader of TDI and TBT (SPS) Unit. Dr. Liu has rich experience in coping with trade frictions and trade remedy investigations. He has guided hundreds of trade friction processing and served as a member of Lecturer Team for training Chinese Commercial Counselors.
