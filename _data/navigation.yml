@@ -10,7 +10,7 @@ links:
   - title: 论坛
     collection: conference
   - title: 发言人及主持人
-    url: /speakers-and-moderators/
+    collection: speakers-and-moderators
   - title: 机构介绍
     collection: key-partners
   - title: 新闻发布
