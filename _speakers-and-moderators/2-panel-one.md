@@ -1,5 +1,5 @@
 ---
-title: 专题讨论 1
+title: 专题讨论（一）
 permalink: /speakers-and-moderators/panel-discussion-1/
 ---
 
