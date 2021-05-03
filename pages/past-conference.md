@@ -3,10 +3,6 @@ title: 往届论坛
 permalink: /past-conference
 ---
 
----
-title: Past Conference
-permalink: /past-conference
----
 
 ![MOU](/images/01.JPG) 
 *Signing Ceremony of MOU between SIMC and the CCPIT Mediation Center to set up a joint mediator panel for the Belt and Road Initiatives*
