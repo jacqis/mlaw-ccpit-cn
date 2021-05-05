@@ -15,8 +15,6 @@ links:
     collection: key-partners
   - title: 新闻发布
     resource_room: true
-  - title: 联络我们
-    url: /contact-us/
   - title: 往届论坛
     url: /past-conference/
   - title: EN
