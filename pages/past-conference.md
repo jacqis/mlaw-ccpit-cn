@@ -35,7 +35,7 @@ permalink: /past-conference
 <br>
 
 ![Opening Address](/images/07.JPG) 
-*Opening Address by then-Senior Minister of State for Law and Health at the China-Singapore International Commercial Dispute Resolution Conference Appreciation Dinner 前律政部兼卫生部高级政务部长唐振辉答谢晚宴*
+*Opening Address by then-Senior Minister of State for Law and Health at the China-Singapore International Commercial Dispute Resolution Conference Appreciation Dinner 新加坡文化、社区及青年部部长兼律政部第二部长唐振辉答谢晚宴*
 
 
 
