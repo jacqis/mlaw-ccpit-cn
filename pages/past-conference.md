@@ -10,7 +10,7 @@ permalink: /past-conference
 <br>
 
 ![Opening Address](/images/07.JPG) 
-*新加坡文化、社区及青年部部长兼律政部第二部长唐振辉答谢晚宴*
+*前律政部兼卫生部高级政务部长唐振辉答谢晚宴*
 <br>
 <br>
 
