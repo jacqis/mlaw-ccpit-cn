@@ -7,17 +7,15 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
+        background: /images/icdrc-banner.jpg
         button: Contact Us
         url: /contact-us/
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
+            - title: 论坛直播网址（中文）
+              description: 请点击此观看中文论坛直播
               url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
+            - title: 论坛直播网址（英文）
+              description: 请点击此观看英文论坛直播
               url: https://gmail.com
             - title: Page A
               description: Page A is important too
