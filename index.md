@@ -12,10 +12,10 @@ sections:
         url: /contact-us/
         key_highlights:
             - title: 论坛直播网址（中文）
-              description: 请点击此观看中文论坛直播
+              description: 请点击此观看论坛直播（中文）
               url: https://google.com
             - title: 论坛直播网址（英文）
-              description: 请点击此观看英文论坛直播
+              description: 请点击此观看论坛直播（英文）
               url: https://gmail.com
             - title: Page A
               description: Page A is important too
