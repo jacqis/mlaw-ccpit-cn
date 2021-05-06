@@ -8,11 +8,11 @@ colors:
   secondary-color: '#18386B'
   media-colors:
     - title: media-color-one
-      color: '#010D31'
+      color: '#AC6560'
     - title: media-color-two
-      color: '#777FE5'
+      color: '#AC8b60'
     - title: media-color-three
-      color: '#A58635'
+      color: '#A7AC60'
     - title: media-color-four
       color: '#00838f'
     - title: media-color-five
