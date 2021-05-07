@@ -8,6 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
     - hero:
         background: /images/icdrc-banner.jpg
+        button: 报名表格
         url: /contact-us/
         key_highlights:
             - title: 论坛直播网址（中文）
