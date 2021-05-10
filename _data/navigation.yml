@@ -9,6 +9,8 @@ logo: /images/isomer-logo.svg
 links:
   - title: 论坛
     collection: conference
+  - title: 视频
+    collection: videos
   - title: 发言人及主持人
     collection: speakers-and-moderators
   - title: 机构介绍
