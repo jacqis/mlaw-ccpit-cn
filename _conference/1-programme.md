@@ -35,6 +35,7 @@ table tr td ul li {font-size: 1rem;}
         <p style="text-align: justify"><b>中方部长级领导演讲</b></p>
  	      <p style="text-align: justify">中方：贸促会会长高燕/其他部长级代表</p><br>
         <p style="text-align: justify"><b>新方代表演讲</b></p><br>
+        <p style="text-align: justify">新加坡国际商事法庭主席及上诉审判庭法官罗赐安法官</p>
       	<p style="text-align: justify"><b>中方代表演讲</b></p>
       	<p style="text-align: justify">国际事务争端预防与解决组织名誉理事长张月姣法官</p>
      </ul>
@@ -54,7 +55,7 @@ table tr td ul li {font-size: 1rem;}
   </tr>
     <tr>
       <td><p style="text-align: justify"><b>10.45am - 11.00am</b></p></td>
-      <td><p style="text-align: justify"><b>茶歇</b></p>
+      <td><p style="text-align: justify"><b>播放论坛主办机构和支持机构提供的视频</b></p>
       </td>
   </tr>
     <tr>
@@ -67,7 +68,7 @@ table tr td ul li {font-size: 1rem;}
     </td>
   </tr>
     <tr>
-      <td><p style="text-align: justify"><b>2.00pm - 3.00pm</b></p></td>
+      <td><p style="text-align: justify"><b>12.00pm - 1.00pm</b></p></td>
       <td><p style="text-align: justify"><b>专题讨论：国际商事争议多元解决机制的机遇与挑战</b></p>
       <ul>
         <p style="text-align: justify">主持人：新方代表</p>
@@ -76,7 +77,7 @@ table tr td ul li {font-size: 1rem;}
     </td>
   </tr>
     <tr>
-      <td><p style="text-align: justify"><b>3.00pm - 4.00pm</b></p></td>
+      <td><p style="text-align: justify"><b>1.00pm - 2.00pm</b></p></td>
       <td><p style="text-align: justify"><b>专题讨论: 法庭的未来科技和人工智能系统</b></p>
       <ul>
       <p style="text-align: justify">主持人：新方代表</p>
@@ -85,7 +86,7 @@ table tr td ul li {font-size: 1rem;}
    </td>
   </tr>
     <tr>
-      <td><p style="text-align: justify"><b>4.00pm – 4.30pm</b></p></td>
+      <td><p style="text-align: justify"><b>2.00pm – 2.30pm</b></p></td>
       <td><p style="text-align: justify"><b>闭幕仪式</b></p>
       <ul>
       <p style="text-align: justify">主持人：新方代表</p>
