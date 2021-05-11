@@ -49,7 +49,7 @@ table tr td ul li {font-size: 1rem;}
         <p style="text-align: justify"><b>新加坡律政部和中国贸促会签署有关联合主办常设联合论坛的谅解备忘录</b></p>
         <p style="text-align: justify">谅解备忘录签约仪式主持人：贸促会法律事务部部长刘超</p>
         <p style="text-align: justify">签约代表：律政部副常任秘书潘家煌和卢鹏起副会长</p>
- 	      <p style="text-align: justify">见证人：唐振辉部长和高燕会长</p>
+ 	      <p style="text-align: justify">见证人：唐振辉部长、高燕会长、罗赐安法官、张月姣法官</p>
       </ul>
     </td>
   </tr>
