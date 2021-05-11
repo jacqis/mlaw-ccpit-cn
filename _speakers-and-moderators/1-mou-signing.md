@@ -37,3 +37,11 @@ permalink: /speakers-and-moderators/mou-signing-ceremony/
 ### 高燕
 **会长<br>
 中国国际贸易促进委员会**<br>
+
+### 罗赐安
+**主席<br>
+新加坡国际商事法庭**<br>
+
+### 张月姣
+**名誉理事长<br>
+国际事务争端预防与解决组织**<br>
