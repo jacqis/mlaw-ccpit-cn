@@ -29,11 +29,11 @@ table tr td ul li {font-size: 1rem;}
       <ul>
         <p style="text-align: justify"><i>线上线下综合模式</i></p><br>
         <p style="text-align: justify"><b>主持人开场</b></p>
-        <p style="text-align: justify">由贸促会副会长卢鹏起主持</p><br>
+        <p style="text-align: justify">由贸促会副会长卢鹏起先生主持</p><br>
       	<p style="text-align: justify"><b>新方部长级领导演讲</b></p>
-     	  <p style="text-align: justify">新加坡：文化、社区及青年部长兼律政部第二部长唐振辉</p><br>
+     	  <p style="text-align: justify">新加坡：文化、社区及青年部长兼律政部第二部长唐振辉先生</p><br>
         <p style="text-align: justify"><b>中方部长级领导演讲</b></p>
- 	      <p style="text-align: justify">中方：贸促会会长高燕/其他部长级代表</p><br>
+ 	      <p style="text-align: justify">中方：贸促会会长高燕女士/其他部长级代表</p><br>
         <p style="text-align: justify"><b>新方代表演讲</b></p><br>
         <p style="text-align: justify">新加坡国际商事法庭主席及上诉审判庭法官罗赐安法官</p>
       	<p style="text-align: justify"><b>中方代表演讲</b></p>
@@ -47,8 +47,8 @@ table tr td ul li {font-size: 1rem;}
       <ul>
         <p style="text-align: justify"><i>线上线下综合模式</i></p><br>
         <p style="text-align: justify"><b>新加坡律政部和中国贸促会签署有关联合主办常设联合论坛的谅解备忘录</b></p>
-        <p style="text-align: justify">谅解备忘录签约仪式主持人：贸促会法律事务部部长刘超</p>
-        <p style="text-align: justify">签约代表：律政部副常任秘书潘家煌和卢鹏起副会长</p>
+        <p style="text-align: justify">谅解备忘录签约仪式主持人：贸促会法律事务部部长刘超先生</p>
+        <p style="text-align: justify">签约代表：律政部副常任秘书潘家煌先生和卢鹏起副会长</p>
  	      <p style="text-align: justify">见证人：唐振辉部长、高燕会长、罗赐安法官、张月姣法官</p>
       </ul>
     </td>
@@ -62,7 +62,7 @@ table tr td ul li {font-size: 1rem;}
       <td><p style="text-align: justify"><b>11.00am - 12.00pm</b></p></td>
       <td><p style="text-align: justify"><b>专题讨论：预防在国际商事争端中的多重作用</b></p>
       <ul>
-        <p style="text-align: justify">主持人：中国仲裁法学研究会副秘书长陈建</p>
+        <p style="text-align: justify">主持人：中国仲裁法学研究会副秘书长陈建先生</p>
         <p style="text-align: justify">发言人：两位中方代表，两位新方代表</p>
       </ul>
     </td>
