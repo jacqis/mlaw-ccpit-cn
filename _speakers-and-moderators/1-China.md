@@ -1,5 +1,5 @@
 ---
-title: China
+title: 中国
 permalink: /speakers-and-moderators/china/
 ---
 
