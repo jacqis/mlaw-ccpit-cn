@@ -8,7 +8,7 @@ sections:
     - hero:
         background: /images/icdrc-banner.jpg
         button: 报名表格
-        url: /contact-us/
+        url: https://form.gov.sg/60a3368267fcaf0011ff4922
         key_highlights:
             - title: 论坛直播网址（原声）
               description: Page A is important too
