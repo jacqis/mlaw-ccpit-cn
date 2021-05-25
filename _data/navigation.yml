@@ -15,8 +15,6 @@ links:
     collection: speakers-and-moderators
   - title: 机构介绍
     collection: key-partners
-  - title: 新闻发布
-    resource_room: true
   - title: 往届论坛
     url: /past-conference/
   - title: EN
