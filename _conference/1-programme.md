@@ -5,98 +5,115 @@ permalink: /conference/programme/
 
 <style>
 table tr td ul li {font-size: 1rem;}
-.horizontal-scroll table tr td p {
-            font-size: 1rem;
-            margin-top: 0;
-            margin-bottom:0 !important;
-  }
-table tr th p {font-size: 1rem;}
 </style>
-
 
 ## 议程
 
 ---
 
 <table>
-  <tr>
-    <th>
-      <p style="text-align: justify"><b>时间</b></p>
-    </th>
-    <th>
-      <p style="text-align: justify"><b>内容</b></p>
-    </th>
-  </tr>
-  <tr>
-    <td><p style="text-align: justify"><b>9.30am - 10.30am</b></p></td>
-    <td><b>开幕仪式</b>
-      <ul>
-        <p style="text-align: justify"><i>线上线下综合模式</i></p><br>
-        <p style="text-align: justify"><b>主持人开场</b></p>
-        <p style="text-align: justify">由贸促会副会长卢鹏起先生主持</p><br>
-      	<p style="text-align: justify"><b>新方部长级领导演讲</b></p>
-     	  <p style="text-align: justify">新加坡：文化、社区及青年部长兼律政部第二部长唐振辉先生</p><br>
-        <p style="text-align: justify"><b>中方部长级领导演讲</b></p>
- 	      <p style="text-align: justify">中方：贸促会会长高燕女士/其他部长级代表</p><br>
-        <p style="text-align: justify"><b>新方代表演讲</b></p><br>
-        <p style="text-align: justify">新加坡国际商事法庭主席及上诉审判庭法官罗赐安法官</p>
-      	<p style="text-align: justify"><b>中方代表演讲</b></p>
-      	<p style="text-align: justify">国际事务争端预防与解决组织名誉理事长张月姣法官</p>
-     </ul>
-    </td>
-  </tr>
-  <tr>
-    <td><p style="text-align: justify"><b>10.30am - 10.45am</b></p></td>
-    <td><p style="text-align: justify"><b>谅解备忘录签约仪式</b></p>
-      <ul>
-        <p style="text-align: justify"><i>线上线下综合模式</i></p><br>
-        <p style="text-align: justify"><b>新加坡律政部和中国贸促会签署有关联合主办常设联合论坛的谅解备忘录</b></p>
-        <p style="text-align: justify">谅解备忘录签约仪式主持人：贸促会法律事务部部长刘超先生</p>
-        <p style="text-align: justify">签约代表：律政部副常任秘书潘家煌先生和卢鹏起副会长</p>
- 	      <p style="text-align: justify">见证人：唐振辉部长、高燕会长、罗赐安法官、张月姣法官</p>
-      </ul>
-    </td>
-  </tr>
     <tr>
-      <td><p style="text-align: justify"><b>10.45am - 11.00am</b></p></td>
-      <td><p style="text-align: justify"><b>播放论坛主办机构和支持机构提供的视频</b></p>
+      <th>
+        <b>时间</b>
+      </th>
+      <th>
+        <b>内容</b>
+      </th>
+    </tr>
+    <tr>
+      <td><b>9.30am - 10.30am</b></td>
+      <td><b>开幕仪式</b><br>
+        <br>
+        主持人：贸促会副会长卢鹏起先生<br>
+        <br>
+        演讲人: <br>
+        <ul>
+          <li>文化、社区及青年部长兼律政部第二部长唐振辉先生</li>
+          <li>贸促会会长高燕女士</li>
+          <li>新加坡国际商事法庭主席及新加坡最高法院上诉审判庭法官罗赐安</li>
+          <li>国际事务争端预防与解决组织名誉理事长张月姣法官</li>
+        </ul>
       </td>
-  </tr>
+    </tr>
     <tr>
-      <td><p style="text-align: justify"><b>11.00am - 12.00pm</b></p></td>
-      <td><p style="text-align: justify"><b>专题讨论：预防在国际商事争端中的多重作用</b></p>
-      <ul>
-        <p style="text-align: justify">主持人：中国仲裁法学研究会副秘书长陈建先生</p>
-        <p style="text-align: justify">发言人：两位中方代表，两位新方代表</p>
-      </ul>
-    </td>
-  </tr>
+      <td><b>10.30am - 10.45am</b></td>
+      <td><b>谅解备忘录签约仪式</b><br>
+        <br>
+        主持人：贸促会法律事务部部长刘超先生<br>
+        <br>
+        签约代表: <br>
+        <ul>
+          <li>律政部副常任秘书潘家煌先生</li>
+          <li>贸促会副会长卢鹏起先生</li>
+        </ul>
+        见证人: <br>
+        <ul>
+          <li>文化、社区及青年部长兼律政部第二部长唐振辉先生</li>
+          <li>贸促会会长高燕女士</li>
+        </ul>
+      </td>
+    </tr>
     <tr>
-      <td><p style="text-align: justify"><b>12.00pm - 1.00pm</b></p></td>
-      <td><p style="text-align: justify"><b>专题讨论：国际商事争议多元解决机制的机遇与挑战</b></p>
-      <ul>
-        <p style="text-align: justify">主持人：新方代表</p>
-        <p style="text-align: justify">发言人：中新各一位代表，两位国际代表</p>
-     </ul>
-    </td>
-  </tr>
+      <td><b>10.45am - 11.00am</b></td>
+      <td><b>歇息</b><br>
+      </td>
+    </tr>
     <tr>
-      <td><p style="text-align: justify"><b>1.00pm - 2.00pm</b></p></td>
-      <td><p style="text-align: justify"><b>专题讨论: 法庭的未来科技和人工智能系统</b></p>
-      <ul>
-      <p style="text-align: justify">主持人：新方代表</p>
-      <p style="text-align: justify">发言人：两位中方代表，两位新方代表</p>
-    </ul>
-   </td>
-  </tr>
+      <td><b>11.00am - 12.00pm</b></td>
+      <td><b>专题讨论（一）：预防在国际商事争端中的多重作用</b><br>
+        <br>
+        主持人：中国仲裁法学研究会副秘书长陈建先生 <br>
+        <br>
+        演讲人: <br>
+        <ul>
+          <li>新方代表（待定） </li>
+          <li>中方代表（待定）</li>
+          <li>新加坡王律师事务所国际仲裁业务合伙人和商业及公司纠纷实务主管曾福庆先生</li>
+          <li>中方代表（待定</li>
+        </ul>
+      </td>
+    </tr>
     <tr>
-      <td><p style="text-align: justify"><b>2.00pm – 2.30pm</b></p></td>
-      <td><p style="text-align: justify"><b>闭幕仪式</b></p>
-      <ul>
-      <p style="text-align: justify">主持人：新方代表</p>
-      <p style="text-align: justify">中方代表演讲</p>
-      <p style="text-align: justify">新方代表演讲</p>
-    </ul>
-   </td>
-  </tr>
-</table>
+      <td><b>12.00pm - 1.00pm</b></td>
+      <td><b>专题讨论（二）：国际商事争议多元解决机制的机遇与挑战</b><br>
+        <br>
+        主持人：安睿雅士律师事务所顾问许延芳先生 太平绅士 <br>
+        <br>
+        演讲人: <br>
+        <ul>
+          <li>国际代表（待定)</li>
+          <li>国际代表（待定)</li>
+          <li>中方代表（待定</li>
+          <li>艾伦格禧律师事务所合伙人，诉讼部门主管王文辉先生</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><b>1.00pm - 2.00pm</b></td>
+      <td><b>专题讨论（三）: 法庭的未来科技和人工智能系统</b><br>
+        <br>
+        主持人：新加坡报业控股华文媒体集团社长李慧玲女士<br>
+        <br>
+        演讲人: <br>
+        <ul>
+          <li>中方代表（待定</li>
+          <li>新加坡最高法院转型与创新总监(司法机构) 陈建伟先生</li>
+          <li>中方代表（待定</li>
+          <li>大成律师事务所高级合伙人梁清龍先生</li>  
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><b>2.00pm – 2.30pm</b></td>
+      <td><b>闭幕仪式</b><br>
+        <br>
+        主持人：新加坡律政部法律商业司司长<br>
+        <br>
+        演讲人: <br>
+        <ul>
+          <li>新加坡律师公会会长格雷戈里·维贾延德兰先生 高级律师</li>
+          <li>中方代表（待定)</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
