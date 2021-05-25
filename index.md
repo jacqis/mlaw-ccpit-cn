@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: 中新国际商事争端解决论坛
+description: 中新国际商事争端解决论坛
 image: /images/isomer-logo.svg
 permalink: /
 sections:
