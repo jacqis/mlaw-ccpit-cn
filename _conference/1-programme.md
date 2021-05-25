@@ -2,7 +2,6 @@
 title: 论坛议程
 permalink: /conference/programme/
 ---
-
 <style>
 table tr td ul li {
   font-size: 1rem; 
@@ -11,10 +10,7 @@ table tr td {
   line-height: 2.2rem;
   }
 </style>
-
 ## 议程
-
----
 
 <table>
     <tr>
